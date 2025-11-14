@@ -41,7 +41,7 @@
     },
     "AUTO_STATUS_REACT_EMOJI": {
       "description": "Emoji used when auto-reacting to status",
-      "value": "❎"
+      "value": "❤️,💜,🩵,🤎,💚,💛"
     },
 
     "AUTO_REACT": {
